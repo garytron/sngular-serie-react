@@ -11,3 +11,9 @@ Use npm to run the project.
 npm install
 npm run dev
 ```
+
+To run the tests.
+
+```bash
+npm test
+```
